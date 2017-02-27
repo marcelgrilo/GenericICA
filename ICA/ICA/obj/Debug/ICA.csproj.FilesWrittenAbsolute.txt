@@ -1,0 +1,5 @@
+/Users/marcelgrilo/Documents/Github/GenericICA/ICA/ICA/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/marcelgrilo/Documents/Github/GenericICA/ICA/ICA/bin/Debug/ICA.dll.mdb
+/Users/marcelgrilo/Documents/Github/GenericICA/ICA/ICA/bin/Debug/ICA.dll
+/Users/marcelgrilo/Documents/Github/GenericICA/ICA/ICA/obj/Debug/ICA.dll
+/Users/marcelgrilo/Documents/Github/GenericICA/ICA/ICA/obj/Debug/ICA.dll.mdb
